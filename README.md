@@ -22,8 +22,5 @@
 
 - He/Him
 
-## ⚡ Fun Fact
-
-- Fun fact about yourself
 
 Feel free to explore my repositories and reach out to collaborate on interesting projects!
